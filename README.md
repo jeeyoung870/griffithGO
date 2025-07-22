@@ -1,4 +1,4 @@
-[Griffith GO - Mobile AR Application for Campus Wayfinding]
+# Griffith GO - Mobile AR Application for Campus Wayfinding
 Unity source directory: Griffith Go/
 
 Unity Editor Version: 2022.3.61f1 LTS
@@ -6,8 +6,9 @@ Reason: LTS support + most compatible with AR Foundation => most stable
 
 !! Tip for share !!
 Before making .zip file, Exclude Library/, Temp/, Logs/, Builds/ folders. 
+
 =========================
-[[Project Configurations]]
+## Project Configurations
 
 [Add Module]
 - Microsoft Visual Studio Community 2022
